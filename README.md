@@ -86,7 +86,52 @@ Here's a style guide which might help you to keep your changes consistent with o
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" 
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              
+                                                                              <!DOCTYPE html>
+<html>
+<head>
+    <title>Letter with List</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6;">
+    <div style="width: 100%; max-width: 600px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+        <p>Dear [Recipient's Name],</p>
+        
+        <p>I hope this letter finds you in good health and spirits. I am writing to inform you about the following important points:</p>
+        
+        <ul style="margin: 20px 0; padding: 0 20px;">
+            <li>First point of importance</li>
+            <li>Second point of importance</li>
+            <li>Third point of importance</li>
+            <li>Fourth point of importance</li>
+        </ul>
+        
+        <p>We believe that these points are crucial for the success of our ongoing projects and initiatives. Please review them carefully and let us know if you have any questions or need further clarification.</p>
+        
+        <p>Thank you for your attention to this matter. We look forward to your feedback.</p>
+        
+        <p>Sincerely,<br>[Your Name]</p>
+    </div>
+</body>
+</html>
+src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
 
 
 ## Credits
